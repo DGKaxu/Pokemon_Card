@@ -1,3 +1,4 @@
+
 # pokemon-deck
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+# Pokemon_Card
+Proyecto de obtener 40 cartas aleatorias de pokemon con su informacion.
+Nombre: Rios Cortes Victor Israel
+no. control: 20161974
